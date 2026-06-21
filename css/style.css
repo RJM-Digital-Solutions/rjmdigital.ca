@@ -178,10 +178,16 @@ main {
 
 .hero-subtitle,
 .page-hero p:not(.eyebrow) {
-  max-width: 700px;
-  margin: 30px 0 0;
-  color: #c7d2e2;
-  font-size: clamp(1.05rem, 2vw, 1.28rem);
+max-width: 760px;
+margin: 34px 0 0;
+
+font-family: "Inter", Arial, sans-serif;
+font-size: clamp(1.15rem, 2vw, 1.4rem);
+font-weight: 300;
+line-height: 1.8;
+letter-spacing: 0.02em;
+
+color: rgba(255,255,255,0.82);
 }
 
 .hero-actions {
