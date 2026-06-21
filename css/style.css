@@ -178,14 +178,15 @@ main {
 
 .hero-subtitle,
 .page-hero p:not(.eyebrow) {
-  max-width: 680px;
-  margin: 24px 0 0;
+  max-width: 700px;
+  margin: 26px 0 0;
 
-  font-size: 1.1rem;
+  font-size: 1.15rem;
   font-weight: 400;
-  line-height: 1.8;
+  line-height: 1.7;
+  letter-spacing: 0.005em;
 
-  color: #b8c4d4;
+  color: rgba(255,255,255,0.75);
 }
 
 .hero-actions {
