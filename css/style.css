@@ -141,8 +141,17 @@ main {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(90deg, rgba(3, 11, 22, 0.94) 0%, rgba(3, 11, 22, 0.84) 48%, rgba(3, 11, 22, 0.40) 100%),
-    linear-gradient(0deg, rgba(3, 11, 22, 0.86), rgba(3, 11, 22, 0.18));
+    linear-gradient(
+      90deg,
+      rgba(3, 11, 22, 0.72) 0%,
+      rgba(3, 11, 22, 0.58) 48%,
+      rgba(3, 11, 22, 0.20) 100%
+    ),
+    linear-gradient(
+      0deg,
+      rgba(3, 11, 22, 0.50),
+      rgba(3, 11, 22, 0.08)
+    );
 }
 
 .hero-content,
