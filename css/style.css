@@ -143,14 +143,14 @@ main {
   background:
     linear-gradient(
       90deg,
-      rgba(3, 11, 22, 0.68) 0%,
-      rgba(3, 11, 22, 0.52) 48%,
-      rgba(3, 11, 22, 0.18) 100%
+      rgba(3,11,22,.78) 0%,
+      rgba(3,11,22,.60) 48%,
+      rgba(3,11,22,.25) 100%
     ),
     linear-gradient(
       0deg,
-      rgba(3, 11, 22, 0.42),
-      rgba(3, 11, 22, 0.06)
+      rgba(3,11,22,.50),
+      rgba(3,11,22,.10)
     );
 }
 
