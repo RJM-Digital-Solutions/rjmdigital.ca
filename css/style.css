@@ -189,13 +189,12 @@ main {
 .page-hero p:not(.eyebrow) {
   max-width: 700px;
   margin: 26px 0 0;
-  font-size: 1.15rem;
-  font-weight: 400;
-  line-height: 1.7;
-  letter-spacing: 0.005em;
 
-  color: #ffffff;
-  text-shadow: 0 2px 12px rgba(0,0,0,.45);
+  font-size: 1.28rem;
+  font-weight: 400;
+  line-height: 1.65;
+
+  color: rgba(255,255,255,.82);
 }
 
 .hero-actions {
