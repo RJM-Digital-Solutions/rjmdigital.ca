@@ -1,0 +1,101 @@
+[
+  {
+    "src": "images/projects/dq-kelowna.webp",
+    "category": "digital-menu-boards",
+    "title": "Dairy Queen \u00b7 Kelowna",
+    "alt": "Digital menu board displays above the service counter at Dairy Queen in Kelowna",
+    "width": 1800,
+    "height": 1350,
+    "fit": "cover"
+  },
+  {
+    "src": "images/projects/sof-burnaby.webp",
+    "category": "digital-menu-boards",
+    "title": "Save-On-Foods \u00b7 Burnaby",
+    "alt": "Digital menu boards above the prepared food counter at Save-On-Foods in Burnaby",
+    "width": 1800,
+    "height": 1350,
+    "fit": "cover"
+  },
+  {
+    "src": "images/projects/scotiabank-richmond.webp",
+    "category": "digital-signage",
+    "title": "Scotiabank \u00b7 Richmond",
+    "alt": "Scotiabank digital signage display in Richmond",
+    "width": 1349,
+    "height": 1800
+  },
+  {
+    "src": "images/projects/prada-holt-renfrew-vancouver.webp",
+    "category": "digital-signage",
+    "title": "Prada \u00b7 Holt Renfrew, Vancouver",
+    "alt": "Prada retail digital signage and video wall at Holt Renfrew in Vancouver",
+    "width": 1800,
+    "height": 1200
+  },
+  {
+    "src": "images/projects/prada-led-screen.webp",
+    "category": "digital-signage",
+    "title": "Prada \u00b7 LED display",
+    "alt": "Prada LED display integrated into a retail wall",
+    "width": 1535,
+    "height": 1536
+  },
+  {
+    "src": "images/security-camera-tech.jpg",
+    "alt": "Security cameras \u2014 commercial technology work",
+    "category": "security-cameras",
+    "title": "Security cameras",
+    "width": 836,
+    "height": 460
+  },
+  {
+    "src": "images/low-voltage-cabling.jpg",
+    "alt": "Low-voltage cabling & networks \u2014 commercial technology work",
+    "category": "low-voltage-cabling",
+    "title": "Low-voltage cabling & networks",
+    "width": 1466,
+    "height": 768
+  },
+  {
+    "src": "images/network-rack.jpg",
+    "alt": "Site surveys & inspections \u2014 commercial technology work",
+    "category": "site-surveys",
+    "title": "Site surveys & inspections",
+    "width": 1800,
+    "height": 1199
+  },
+  {
+    "src": "images/digital-signage-tech.jpg",
+    "alt": "Field service & technology support \u2014 commercial technology work",
+    "category": "field-service",
+    "title": "Field service & technology support",
+    "width": 804,
+    "height": 1005
+  },
+  {
+    "src": "images/projects/video-wall-install-gallery.jpg",
+    "category": "digital-signage",
+    "title": "Video wall installation",
+    "alt": "Technicians fitting display panels and routing cabling for a commercial video wall",
+    "width": 1293,
+    "height": 768
+  },
+  {
+    "src": "images/projects/menu-board-store-gallery.jpg",
+    "category": "digital-menu-boards",
+    "title": "Restaurant digital menu boards",
+    "alt": "Digital menu board displays above a restaurant service counter",
+    "width": 1800,
+    "height": 1199
+  },
+  {
+    "src": "images/projects/rogers-display-install.jpg",
+    "category": "digital-signage",
+    "title": "Rogers display installation",
+    "alt": "Wall-mounted digital signage display inside a Rogers retail store",
+    "width": 2048,
+    "height": 1536,
+    "fit": "cover"
+  }
+]
